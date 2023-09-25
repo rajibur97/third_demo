@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600;700;800&family=Roboto+Condensed:wght@300;400;700&family=Roboto:wght@500&display=swap');
+
+/* top header start */
+/* body{
+    border: 3px solid green;
+}
+.contact-info a, .social-info a{
+    color: rgb(124, 129, 129);
+    transition: .5s linear;
+}
+.contact-info a:hover, .social-info a:hover{
+    color: rgb(29, 202, 202);
+} */
+.header-image {
+    color: ;
+    background:linear-gradient(rgba(21, 43,46, .9),rgba(21, 43,46, .9)), url('../images/banner1.jpg');
+    background-size: cover;
+
+}
+.navbar{
+    color: white;
+}
+.navbar-brand{
+    font-weight: 600;
+    font-size: 32px;
+    color: white;
+}
+.nav-link{
+    color: white;
+    font-weight: 500;
+    font-size: 17px;
+}
+.nav-link:hover{
+    color: white;
+    font-weight: 600;
+    font-size: 17px;
+    
+}
+.titile-name{
+    color: white;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.color{
+    color: white;
+    font-weight: 500;
+    font-size: 17px;
+}
+.search-bar{
+    color: white;
+    width:auto;
+}
+.button {
+    list-style: none;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 28px;
+}
+.btn-secondary:hover{
+    color: black;
+    background-color: white;
+    border-color: #025b4d;
+}
+.hire-me{
+    list-style: none;
+    text-decoration: none;
+}
+.progress{
+    height: 7px;
+}
+.boigraphy{
+    color: #707070;
+    font-size: 16px;
+    font-weight: 500;
+}
+.for-you{
+    background-color:#F6F6F6 ;
+}
+.icon-color{
+    color:#007e6a ;
+    font-size: 40px;
+    font-weight: 900;
+}
+.my-skill{
+    color: #707070;
+    font-size: 16px;
+    font-weight: 500;
+}
+.brand-color{
+    color: #007e6a;
+    font-size: 28px;
+    font-weight: 400;
+}
+.more-section{
+    font-size: 46px;
+    font-weight: 700;
+}
+.image-hover:hover{
+    background: linear-gradient(rgba(21, 43,46, .9),rgba(21, 43,46, .9));
+}
+.design-section{
+    background-color: #F6F6F6;
+}
+.my-success{
+    background-color: #F6F6F6;
+}
+.slider-section{
+    background-color: #397F6A;
+}
+.footer-section{
+    color: white !important;
+    background-color: #061F24;
+}
+.footer-section2{
+    color: white !important;
+    background-color: black;
+}
